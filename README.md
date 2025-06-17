@@ -1,1 +1,1 @@
-# profile-of-sam
+from this u can understand about mr.sam
